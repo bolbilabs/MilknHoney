@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Choice1
   - Choice2
+  - MainImage
   layers:
   - Default
   - TransparentFX

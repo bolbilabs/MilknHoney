@@ -6,7 +6,7 @@ using UnityEngine.UI;
 [System.Serializable]
 public class Dialogue
 {
-    public string name;
+    //public string name;
 
     //public Sprite[] face;
 

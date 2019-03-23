@@ -26,7 +26,7 @@ public class DialogueManager : MonoBehaviour
     
     private MonoBehaviour[] scriptTriggers;
 
-    public int lineSize = 32;
+    public int lineSize = 31;
 
     private int currentLine = 0;
     private int lineOffset = 0;
