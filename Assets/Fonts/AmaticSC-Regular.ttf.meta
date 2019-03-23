@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8abfa8cb17df8435e8f0f12f82b06374
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amatic SC
+  fontNames:
+  - Amatic SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 817b529e6552140b5a11be7e4ae5d7ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
