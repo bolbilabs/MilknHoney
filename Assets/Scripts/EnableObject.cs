@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class EnableObject : MonoBehaviour
 {
-    public GameObject gameObject;
+    public GameObject thisObject;
     // Start is called before the first frame update
     void Start()
     {
-        gameObject.SetActive(true);
+        thisObject.SetActive(true);
     }
 }

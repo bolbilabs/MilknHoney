@@ -27,16 +27,18 @@ public class EnableChoice : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        choice1Image.gameObject.transform.GetChild(0).gameObject.GetComponentInChildren<TextMeshProUGUI>().SetText(choice1Text);
-        choice2Image.gameObject.transform.GetChild(0).gameObject.GetComponentInChildren<TextMeshProUGUI>().SetText(choice2Text);
+        choice1Image.gameObject.transform.GetChild(1).GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().SetText(choice1Text);
+        choice2Image.gameObject.transform.GetChild(1).GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().SetText(choice2Text);
 
-        choice1Image.gameObject.transform.GetChild(0).gameObject.GetComponentInChildren<Button>().onClick.AddListener(Option1OnClick);
-        choice2Image.gameObject.transform.GetChild(0).gameObject.GetComponentInChildren<Button>().onClick.AddListener(Option2OnClick);
+        choice1Image.gameObject.transform.GetChild(0).gameObject.GetComponent<Button>().onClick.AddListener(Option1OnClick);
+        choice2Image.gameObject.transform.GetChild(0).gameObject.GetComponent<Button>().onClick.AddListener(Option2OnClick);
 
         choice1Image.gameObject.transform.GetChild(0).gameObject.SetActive(true);
         choice2Image.gameObject.transform.GetChild(0).gameObject.SetActive(true);
-    }
 
+        //choice1Image.gameObject.transform.GetChild(1).GetChild(0).gameObject.SetActive(true);
+        //choice2Image.gameObject.transform.GetChild(1).GetChild(0).gameObject.SetActive(true);
+    }
 
     void Option1OnClick()
     {
