@@ -123,7 +123,7 @@ public class DialogueManager : MonoBehaviour
         }
         else
         {
-            dialogueText.text = "<mspace=2.75em>" + currentSentence;
+            dialogueText.text = "<mspace=2.5em>" + currentSentence;
             StopAllCoroutines();
             coroutineRunning = false;
         }
@@ -135,7 +135,7 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator TypeSentence (string sentence)
     {
-        dialogueText.text = "<mspace=2.75em>";
+        dialogueText.text = "<mspace=2.5em>";
         currentSentence = sentence;
         coroutineRunning = true;
         foreach (char letter in sentence.ToCharArray())
