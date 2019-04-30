@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DrinkSoup.unity
     guid: 8f92b390a84f24e218794f3d5174b64b
+  - enabled: 1
+    path: Assets/Scenes/DriveAway.unity
+    guid: d4cdc2f5d0fe9479cbcc4a126e4c337b
+  - enabled: 1
+    path: Assets/Scenes/NikeStore.unity
+    guid: 950986d1091814d319130ea75bcb889f
+  - enabled: 1
+    path: Assets/Scenes/GunStore.unity
+    guid: 0cffef6a6ae7d448482319924ae57189
   m_configObjects: {}

@@ -8,6 +8,7 @@ public class TrunkOpen : MonoBehaviour
     private float oldMouseY = -99999;
 
     public DialogueTrigger next;
+    public GameObject enableArrow;
 
     bool opened = false;
 
@@ -32,6 +33,7 @@ public class TrunkOpen : MonoBehaviour
         yield return new WaitForSeconds(0.1f);
         opened = true;
 
+        enableArrow.SetActive(true);
         next.TriggerDialogue();
 
     }
