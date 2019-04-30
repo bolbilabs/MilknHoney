@@ -148,8 +148,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 12.2, y: -17.68}
-  m_SizeDelta: {x: 100.5, y: 48.35}
+  m_AnchoredPosition: {x: 129.4, y: -113.2}
+  m_SizeDelta: {x: 178.5, y: 178.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &221149102
 MonoBehaviour:
@@ -405,6 +405,131 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &316387778
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1180428598}
+    m_Modifications:
+    - target: {fileID: 2286755130826086753, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_Name
+      value: MagGlass
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -320
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -160
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dfb116f0162b2422d855ee3f397c5a89, type: 3}
+--- !u!224 &316387779 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2286755130826086766, guid: dfb116f0162b2422d855ee3f397c5a89,
+    type: 3}
+  m_PrefabInstance: {fileID: 316387778}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &332016972
 GameObject:
   m_ObjectHideFlags: 0
@@ -476,7 +601,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 177.6, y: 76}
+  m_AnchoredPosition: {x: 354, y: 78}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &355663119
@@ -532,7 +657,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 79, y: -19}
+  m_AnchoredPosition: {x: 0, y: -74}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &373842402
@@ -566,7 +691,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -693,7 +818,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 177.6, y: 76}
+  m_AnchoredPosition: {x: 43, y: 78}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &715440295
@@ -912,7 +1037,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 8bb0712171e1d408693ac22c2bbce381, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1109,6 +1234,7 @@ RectTransform:
   - {fileID: 332016973}
   - {fileID: 772599280}
   - {fileID: 1178254470}
+  - {fileID: 316387779}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1153,8 +1279,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 256.41, y: -21.899986}
-  m_SizeDelta: {x: 109.38, y: 56.2}
+  m_AnchoredPosition: {x: 272.2, y: -146.9}
+  m_SizeDelta: {x: 107.8, y: 105.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1475236718
 MonoBehaviour:
@@ -1546,7 +1672,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -164, y: -18}
+  m_AnchoredPosition: {x: 0, y: -37}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1785496387
@@ -1686,6 +1812,15 @@ GameObject:
   - component: {fileID: 2069319129}
   - component: {fileID: 2069319128}
   - component: {fileID: 2069319127}
+  - component: {fileID: 2069319140}
+  - component: {fileID: 2069319139}
+  - component: {fileID: 2069319138}
+  - component: {fileID: 2069319137}
+  - component: {fileID: 2069319136}
+  - component: {fileID: 2069319135}
+  - component: {fileID: 2069319134}
+  - component: {fileID: 2069319133}
+  - component: {fileID: 2069319132}
   - component: {fileID: 2069319126}
   m_Layer: 0
   m_Name: DialogueController
@@ -1706,10 +1841,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47b026fc13ff848c99789da9547c80ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  choice1Text: Walk Away
-  choice2Text: Jump In
-  choice1Scene: Robbery
-  choice2Scene: PoliceChase
+  choice1Text: Use Kung-Fu
+  choice2Text: Steal Some Bread
+  choice1Scene: StopRob
+  choice2Scene: HelpRob
 --- !u!114 &2069319127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1724,11 +1859,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
     sentences:
-    - 'Mysterious Lady: Hop in this whip.'
-    - 'Anderson .Paak: Bitch, you the feds.'
-    - 'Mysterious Lady: Baby, don''t trip.'
+    - 'Andy: What a lovely day in Venice!'
+    - 'Andy: Not so much a lovely day for my pockets, though.'
     scriptTriggers:
-    - {fileID: 2069319126}
+    - {fileID: 2069319140}
+    - {fileID: 2069319139}
 --- !u!114 &2069319128
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1741,7 +1876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7056a76c4b52740389649b2a9f4a49c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 3a4b534250384487aa95012ec9431c5b, type: 3}
+  sprite: {fileID: 21300000, guid: d6a537ff0575e445d86bf6be8cfeec3e, type: 3}
 --- !u!114 &2069319129
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1785,3 +1920,136 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2069319132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54b495c374134eeabfb1c62279663c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 1178254469}
+--- !u!114 &2069319133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eab070675c18441cbf2c5c41d47ad75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    sentences:
+    - 'Andy: Now, do I let ''em have their way? Or should I get a payday?'
+    scriptTriggers: []
+--- !u!114 &2069319134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5b73e84bb954a138e85cbd903f812f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueTrigger: {fileID: 2069319133}
+--- !u!114 &2069319135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eab070675c18441cbf2c5c41d47ad75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    sentences:
+    - 'Andy: Woah! That''s a lotta green.'
+    scriptTriggers:
+    - {fileID: 0}
+    - {fileID: 2069319134}
+    - {fileID: 2069319132}
+    - {fileID: 2069319126}
+--- !u!114 &2069319136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5b73e84bb954a138e85cbd903f812f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueTrigger: {fileID: 2069319135}
+--- !u!114 &2069319137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7056a76c4b52740389649b2a9f4a49c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8bb0712171e1d408693ac22c2bbce381, type: 3}
+--- !u!114 &2069319138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eab070675c18441cbf2c5c41d47ad75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    sentences:
+    - 'Andy: Huh? What''s happenin'' at the bank?'
+    - 'Andy: Some sort of robbery? Now this I gotta see!'
+    scriptTriggers:
+    - {fileID: 2069319137}
+    - {fileID: 2069319136}
+--- !u!114 &2069319139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5b73e84bb954a138e85cbd903f812f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueTrigger: {fileID: 2069319138}
+--- !u!114 &2069319140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069319125}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7056a76c4b52740389649b2a9f4a49c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 45662281dc6514d0ca67c1cc428363c4, type: 3}

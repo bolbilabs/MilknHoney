@@ -35,4 +35,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GunStore.unity
     guid: 0cffef6a6ae7d448482319924ae57189
+  - enabled: 1
+    path: Assets/Scenes/HelpRob.unity
+    guid: 191431964a47e412a947d2c7085c0242
+  - enabled: 1
+    path: Assets/Scenes/WithLady.unity
+    guid: 24d64677af1844525ba834926517802d
+  - enabled: 1
+    path: Assets/Scenes/WithoutLady.unity
+    guid: 119a26e92adf84d3cacea0d203d7f2a8
+  - enabled: 1
+    path: Assets/Scenes/StopRob.unity
+    guid: b7efb72da8b8848f2be5996f997d2ed2
+  - enabled: 1
+    path: Assets/Scenes/LetLadyGo.unity
+    guid: b34e8f0eea3604289af55814691aa3b8
+  - enabled: 1
+    path: Assets/Scenes/CaptureLady.unity
+    guid: 7d510a407a1cc436fb580c68e44002c0
   m_configObjects: {}
